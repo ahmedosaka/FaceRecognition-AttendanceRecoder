@@ -7,3 +7,5 @@
 ## If you don't have a web camera, you can replace it with a photo of your choice.
 ## Here is a sample of the result
 <a href=""><img src="output_Ahmed.jpg" alt="Screenshot-10" border="0"></a>
+## If you tried to show people who are not registered in the database, it will show out that the face is for "Unknow Person"
+<a href=""><img src="UnknowFace_output.jpg" alt="Screenshot-10" border="0"></a>
